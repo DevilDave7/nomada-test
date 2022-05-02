@@ -1,0 +1,56 @@
+.sideActor{
+    align-items: center;
+    text-align: center;
+    overflow: 'auto';
+    height: '100vh';
+    position: 'fixed';
+    left: 0;
+    top: 0;
+    bottom: 0;
+}
+.toHome{
+    background-color: #3f5eb6;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin-bottom:2em;
+    margin-top: 1em;
+    cursor: pointer;
+    border-radius: 2em;
+}
+
+.sideActor h3{
+    color: aliceblue;
+    text-align: center;
+    display: block;
+    font-size: large;
+    width: 100%;
+}
+
+.genderP{
+    text-align: center;
+    background-color: #F5D790;
+    padding: 5px 0px 5px 0px;
+    color: #020202;
+    display: block;
+    font-weight: 500;
+    width: 70%;
+    margin-left: 2em ;
+    border-radius: 0.5em;
+}
+
+.popularityP{
+    color: azure;
+}
+
+.titleContent{
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    margin-top: 0.5em;
+}

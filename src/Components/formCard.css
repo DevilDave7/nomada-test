@@ -1,0 +1,22 @@
+.button {
+    background-color: #3f5eb6;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 2em;
+  }
+
+.whoisName{
+    display: inline-block;
+    margin: 1em;
+    text-anchor: middle;
+    font-weight: 400;
+    font-size: larger;
+}
